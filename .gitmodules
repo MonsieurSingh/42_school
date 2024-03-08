@@ -1,0 +1,3 @@
+[submodule "projects/libft"]
+	path = projects/libft
+	url = git@vogsphere.42adel.org.au:vogsphere/intra-uuid-2dd265ed-0f03-4184-a9d2-709f50edb4c7-5559250-tesingh
